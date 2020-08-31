@@ -1,49 +1,77 @@
+Sean Hoerger
+8/30/2020
+
+CS131 HW1
+
+
 --------------------------------------------------------------------------------
 List three things from the syllabus that you think will help you learn this semester
 --------------------------------------------------------------------------------
-1:
+1: Quizzes + Retakes - I like the idea of focus on learning over cramming for 
+tests.
 
+2: Euros - While I hope I won't need them, a little flexibility will help me 
+manage stress during the semester.
 
-2: 
-
-
-3:
-
+3: Office Hours - I think the frequent office hour sessions will be a good 
+oportunity for me to ask questions, especially if I can't make the live lecture.
 
 
 --------------------------------------------------------------------------------
 After reading the syllabus, what questions do you have?
 --------------------------------------------------------------------------------
-
-
+Initially, I was a little confused about the timing of due dates for the weekly 
+exercises, but that question was answered in class.
 
 
 --------------------------------------------------------------------------------
 Yang and Rabkin response (see assignment)
 --------------------------------------------------------------------------------
+"As a social construct, programming languages are yet another channel for social 
+bias to masquerade as “objective” and “technical” facts–and thus perpetuate 
+existing social hierarchies. The community seems to have closed the loop on the 
+recursive arguments “X and Y are the best languages because the smartest people 
+use them” and “These are the smartest people because they use languages X and 
+Y”–where “smartest” seems to have replaced “highest-status” without our 
+noticing."
 
-
+In my experience, I haven't noticed too much of this at Mudd. I have heard 
+people note differences between languages and how some are easier or harder to 
+work with. I believe this is a valid point and I hope nobody is trying to argue 
+that Python isn't "easier" than C or assembly; there is a reason Python is used
+in CS5 not C++. However, I think most mudders know that great things can be done
+in all languages and that language is not a measure of ability or status.
 
 
 --------------------------------------------------------------------------------
 Hopper response (see assignment)
 --------------------------------------------------------------------------------
+"So in order to comply at least with that part of it, and with very deep 
+personal admiration for the numerous contributions that Grace Hopper has made to
+this field, and as—in my view at least—the key person in the early history of
+programming languages, I want to introduce the third programmer on the first
+large-scale digital computer."
 
-
+Having never learned much about the history of Computer Science and, as a male 
+student, never attended the event in her name, I had no idea of Grace Hopper's
+contributions to computing. I enjoyed reading this article and found the 
+evolution of languages quite fascinating.
 
 
 --------------------------------------------------------------------------------
 Describe a spoken language (see assignment)
 --------------------------------------------------------------------------------
+Western Punjabi: There are 35 traditional characters int the Gurmukhi script 
+(Punjabi character set). Punjabi is read left to right in horizontal lines.
 
 Which language did you get?
 --------------------------------------------------------------------------------
-
+Western Punjabi
 
 What is the character set of that language?
 --------------------------------------------------------------------------------
-
-
+There are 35 traditional characters in the Gurmukhi script (Punjabi character 
+set). Punjabi is read left to right in horizontal lines.
 
 
 --------------------------------------------------------------------------------
@@ -52,23 +80,31 @@ Describe a programming language (see assignment)
 
 Which programming language did you get?
 --------------------------------------------------------------------------------
+R
 
 
 What is the character set of that programming language?
 --------------------------------------------------------------------------------
+According to MIT, character strings in R can be declared to be encoded in 
+"latin1" or "UTF-8." The character set of R are English characters and symbols. 
+R is read from left to right in horizontal lines.
 
 
 What are the keywords in that programming language?
 --------------------------------------------------------------------------------
+R keywords: if, else, repeat, while,functionfor, in, next, break, TRUE, FALSE
+NULL, Inf, NaN, NA, NA_integer_, NA_real_, NA_complex_,NA_character_
 
-
+They are all English words or expressions.
 
 
 --------------------------------------------------------------------------------
 What does the spoken language have in common with the programming language? What is 
 different? How might that affect someone's ability to learn the programming language?
 --------------------------------------------------------------------------------
-
+The only commonality is directionality. In order for a native Punjabi speaker to
+learn R, the speaker would have to learn a whole new character set and keywords 
+in a new language.
 
 
 
@@ -78,6 +114,10 @@ CSS programming languages, according to your definition? Why or why not? What do
 think Yang and Rabkin would say? Finally, what might be some consequences of TIOBE's 
 decision not to include HTML and CSS on their list of programming languages?
 --------------------------------------------------------------------------------
-
-
-
+I would consider HTML and CSS programming languages, as they are a way of 
+writing computer instrutions in a way that is relatively easily understood by 
+humans. I imagine that Yang and Rabkin would agree; they seemt to be pro-
+language. I am surprised that TIOBE does not consider HTML and CSS a programming 
+language. This could perhaps lead some people to  be classified as not
+"programmers," but I bet that most people don't follow TIOBE's lead on this 
+topic.
